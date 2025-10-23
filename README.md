@@ -15,4 +15,4 @@ It is a Marcus Aurelius–themed quiz app to practice connecting key Android con
 - Result screen showing score and option to restart  
 - Hardcoded Marcus Aurelius questions for practice  
 ## Screenshots
-![Home Screen](drawable/front.png)
+![Home Screen](screenshots/front.png)
